@@ -154,3 +154,26 @@ All API routes are mounted under `/api`. Uploaded files (e.g. avatars) are serve
 - Update or delete any blog, regardless of ownership.
 
 Role is fixed to `user` at registration and cannot be self-escalated via the API — admin accounts are created via the `seed:admin` script or set directly in the database. On the frontend, `/admin` routes are gated by `AuthContext`/role checks, with the backend `authorizeAdmin` middleware as the actual enforcement point.
+
+<img width="1891" height="827" alt="login" src="https://github.com/user-attachments/assets/259d1f77-5d2c-443f-8ad5-1f65cdfc2b0d" />
+
+<img width="1892" height="977" alt="HOMEpage" src="https://github.com/user-attachments/assets/9b9ad130-067a-460c-8b8c-69113b5e8747" />
+
+<img width="1896" height="970" alt="usr_list3" src="https://github.com/user-attachments/assets/b668affe-7096-4017-880e-ddff7512d263" />
+
+<img width="1857" height="853" alt="user_profile8" src="https://github.com/user-attachments/assets/cbf93f19-8973-4f14-9a25-28c648308e71" />
+
+<img width="1906" height="956" alt="admin_dashboard" src="https://github.com/user-attachments/assets/81ada561-93c9-4a6a-8542-65a999e5f56a" />
+
+<img width="1892" height="968" alt="all_blogs" src="https://github.com/user-attachments/assets/eb7dd348-240e-4408-b74a-e75367ffbf10" />
+
+<img width="1892" height="975" alt="viw_blog" src="https://github.com/user-attachments/assets/cb818936-c924-474c-9f09-cab59e606d7d" />
+
+<img width="1881" height="887" alt="update_blog" src="https://github.com/user-attachments/assets/fbd97e44-c707-473e-a40b-d8aa89a786be" />
+
+<img width="1877" height="977" alt="responsive_tab" src="https://github.com/user-attachments/assets/a9a70e64-6c6a-4ca5-b037-9afaed1d5732" />
+
+<img width="1902" height="963" alt="responsive_mobile" src="https://github.com/user-attachments/assets/8a0e5f78-7c26-4eee-a023-eaae7ccc8e41" />
+
+
+
